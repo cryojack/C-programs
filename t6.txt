@@ -1,0 +1,8 @@
+if (there is a line)
+print that line as it is, followed by spaces     
+     
+that line as it is, followed by spaces     
+
+    
+that line as it is, followed by spaces     
+this is     my name     
